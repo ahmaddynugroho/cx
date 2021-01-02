@@ -14,14 +14,22 @@ cx is a fzf wrapper written in batch script. It's functions is similiar to [ff](
 
 [Cmd Move]cd to selected path
 
-2. `cn`
+2. `cma`
+
+[Cmd Move All]cd to selected path including hidden directory
+
+3. `cn`
 
 [Cmd Neovim]open selected file using neovim
 
-3. `ch` (on process)
+4. `cna`
+
+[Cmd Neovim All]open selected file using neovim including hidden directory
+
+5. `ch` (on process)
 
 [Cmd History]run selected command from command history. You must exit using `z`, otherwise your last session command won't saved
 
-4. `cc <program-to-open-with> [<args or flags>]` (not available yet)
+6. `cc <program-to-open-with> [<args or flags>]` (not available yet)
 
 [Cmd Choose]open selected file using `<program-to-open-with>`
