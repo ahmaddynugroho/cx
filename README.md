@@ -1,6 +1,7 @@
 # About
 
-cx is a fzf wrapper written in batch script. It's functions is similiar to [ff](https://github.com/genotrance/ff). But cx is not opening a new cmd window every single time. And cx saves your command history
+cx is a fzf wrapper written in batch script. It's functions is to make it easy to use fzf for daily use. cx is not opening a new cmd window every single time and cx saves your command history
+<br> <img src="https://media.giphy.com/media/DAX8nrvB6Va1thdiS4/source.gif">
 
 # Installation
 
@@ -11,25 +12,23 @@ cx is a fzf wrapper written in batch script. It's functions is similiar to [ff](
 # Usage
 
 1. `cm`
-
-[Cmd Move]cd to selected path
+   <br>[Cmd Move]cd to selected path
 
 2. `cma`
-
-[Cmd Move All]cd to selected path including hidden directory
+   <br>[Cmd Move All]cd to selected path including hidden directory
 
 3. `cn`
-
-[Cmd Neovim]open selected file using neovim
+   <br>[Cmd Neovim]open selected file using neovim
 
 4. `cna`
-
-[Cmd Neovim All]open selected file using neovim including hidden directory
+   <br>[Cmd Neovim All]open selected file using neovim including hidden directory
 
 5. `ch` (on process)
-
-[Cmd History]run selected command from command history. You must exit using `z`, otherwise your last session command won't saved
+   <br>[Cmd History]run selected command from command history. You must exit using `z`, otherwise your last session command won't saved
 
 6. `cc <program-to-open-with> [<args or flags>]` (not available yet)
+   <br>[Cmd Choose]open selected file using `<program-to-open-with>`
 
-[Cmd Choose]open selected file using `<program-to-open-with>`
+#### links
+
+[ff](https://github.com/genotrance/ff), [fd](https://github.com/sharkdp/fd), [W art in the background ( ͡° ͜ʖ ͡°)](https://www.pixiv.net/en/artworks/86680494)
