@@ -5,9 +5,9 @@ cx is a fzf wrapper written in batch script. It's functions is to make it easy t
 
 # Installation
 
-1. Clone this repo. I clone it to `%userprofile%`
-2. Add that folder to `%path%`
-3. Run `env.cmd`. If you want to use `ripgrep` or `dir /s/b` instead, change it in `env.cmd` and run it again (the default is using [fd](https://github.com/sharkdp/fd))
+1. Clone this repo. I clone it to `%UserProfile%`
+2. Add that folder to `%PATH%`
+3. Run `env.cmd`. If you want to use `dir /s/b` instead, change it in `env.cmd` and run it again (the default is using [fd](https://github.com/sharkdp/fd))
 
 # Usage
 
