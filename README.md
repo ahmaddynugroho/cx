@@ -1,3 +1,7 @@
+# Project Status
+
+status: rewriting in rust
+
 # About
 
 cx is a fzf wrapper written in batch script. It's functions is to make it easy to use fzf for daily use. cx is not opening a new cmd window every single time and cx saves your command history
