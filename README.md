@@ -1,6 +1,12 @@
 # Project Status
 
-status: rewriting in rust
+Status: rewriting in rust using [clap](https://github.com/clap-rs/clap)
+<br>Upcoming features:
+
+- [ ] cd to path
+- [ ] open path with certain program
+- [ ] run from command history
+- [ ] cd to path history
 
 # About
 
